@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T15:17:50.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZcW4uaK2A0z-z1TcFEqs" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-17T15:20:03.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="DhdXCysjEpOx09mozHAi" version="16.2.7" type="github" pages="5">
   <diagram id="LlKktqIb9uknwn_X3MoD" name="Cad-Pessoa(Admin)">
     <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -443,10 +443,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAzzr6nJn0mYJ6-xmeY1-23" value="Aciona&lt;br&gt;Operador" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="yy801ZG-W4wEnnO-UrQJ-4">
+        <mxCell id="kAzzr6nJn0mYJ6-xmeY1-23" value="Solicita Autorização para Consulta via&amp;nbsp;&lt;br&gt;Operador" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="yy801ZG-W4wEnnO-UrQJ-4">
           <mxGeometry x="80" y="200" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kAzzr6nJn0mYJ6-xmeY1-26" value="Analisa &lt;br&gt;Caso/Autorização Manual para consulta" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="yy801ZG-W4wEnnO-UrQJ-4">
+        <mxCell id="kAzzr6nJn0mYJ6-xmeY1-26" value="Solicita&lt;br&gt;Autorização Manual para Consulta" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="yy801ZG-W4wEnnO-UrQJ-4">
           <mxGeometry x="80" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kAzzr6nJn0mYJ6-xmeY1-29" value="fluxo: autorização manual" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="yy801ZG-W4wEnnO-UrQJ-4" source="kAzzr6nJn0mYJ6-xmeY1-26" target="kAzzr6nJn0mYJ6-xmeY1-7">
