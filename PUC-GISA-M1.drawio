@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T13:43:51.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QsfCpH55NGJ2v_BsXB4Y" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-17T13:44:37.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="MnlSPWuKkn_7fMdSXD3m" version="16.2.7" type="github" pages="5">
   <diagram id="LlKktqIb9uknwn_X3MoD" name="Cad-Pessoa(Admin)">
     <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -486,7 +486,7 @@
             <mxPoint x="-10" y="90" as="sourcePoint" />
             <mxPoint x="50" y="90" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="360" />
+              <mxPoint x="460" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -498,6 +498,18 @@
         </mxCell>
         <mxCell id="yy2_AodwpnBtR9xx8jZm-0" value="Registra &lt;br&gt;Consulta" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="yy801ZG-W4wEnnO-UrQJ-4">
           <mxGeometry x="220" y="105" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yy2_AodwpnBtR9xx8jZm-6" value="sim" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="yy801ZG-W4wEnnO-UrQJ-4" source="kAzzr6nJn0mYJ6-xmeY1-31" target="yy2_AodwpnBtR9xx8jZm-0">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-10" y="90" as="sourcePoint" />
+            <mxPoint x="130" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy2_AodwpnBtR9xx8jZm-7" value="" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="yy801ZG-W4wEnnO-UrQJ-4" source="yy2_AodwpnBtR9xx8jZm-0" target="kAzzr6nJn0mYJ6-xmeY1-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-10" y="90" as="sourcePoint" />
+            <mxPoint x="130" y="145" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yy801ZG-W4wEnnO-UrQJ-25" value="" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;" edge="1" parent="yy801ZG-W4wEnnO-UrQJ-2" source="yy801ZG-W4wEnnO-UrQJ-3" target="yy801ZG-W4wEnnO-UrQJ-5">
           <mxGeometry width="160" relative="1" as="geometry">
