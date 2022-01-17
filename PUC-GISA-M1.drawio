@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T11:53:21.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JzjjvNhoqL33JghZNDk6" version="16.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-17T12:53:23.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="MD1cyT6ezM1uzNo3oPir" version="16.2.7" type="github" pages="3">
   <diagram id="LlKktqIb9uknwn_X3MoD" name="MIC-Admin">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="oY9YBYQD92hxkGcXl7jA-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="oY9YBYQD92hxkGcXl7jA-1">
           <mxGeometry x="20" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oY9YBYQD92hxkGcXl7jA-5" value="Caso de Uso: Administrador (CRUD*)" style="swimlane;" vertex="1" parent="oY9YBYQD92hxkGcXl7jA-1">
+        <mxCell id="oY9YBYQD92hxkGcXl7jA-5" value="Caso de Uso: Cadastro de Pessoa [Administrador (CRUD*)]" style="swimlane;" vertex="1" parent="oY9YBYQD92hxkGcXl7jA-1">
           <mxGeometry x="70" y="30" width="570" height="440" as="geometry" />
         </mxCell>
         <mxCell id="oY9YBYQD92hxkGcXl7jA-6" value="Cadastra Categoria de Pessoa" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="oY9YBYQD92hxkGcXl7jA-5">
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MIC-Operator" id="T_cnKersPYIX8bRWeLpB">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fDNJ7AyMIo0dSmSkeILJ-0" />
         <mxCell id="fDNJ7AyMIo0dSmSkeILJ-1" parent="fDNJ7AyMIo0dSmSkeILJ-0" />
@@ -176,7 +176,7 @@
         <mxCell id="C0qJVE6773nrGns2ulc4-1" value="Operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="C0qJVE6773nrGns2ulc4-0">
           <mxGeometry x="20" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0qJVE6773nrGns2ulc4-2" value="Caso de Uso: Operador (CRU*)" style="swimlane;" vertex="1" parent="C0qJVE6773nrGns2ulc4-0">
+        <mxCell id="C0qJVE6773nrGns2ulc4-2" value="Caso de Uso: Cadastro de Pessoa [Operador (CRU*)]" style="swimlane;" vertex="1" parent="C0qJVE6773nrGns2ulc4-0">
           <mxGeometry x="70" y="30" width="570" height="440" as="geometry" />
         </mxCell>
         <mxCell id="C0qJVE6773nrGns2ulc4-3" value="Cadastra Categoria de Pessoa" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="C0qJVE6773nrGns2ulc4-2">
@@ -290,7 +290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MIC-User" id="q8UgcgfujM2APmbz-Ftf">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="KarF-bYTH0cIN94YYWyB-0" />
         <mxCell id="KarF-bYTH0cIN94YYWyB-1" parent="KarF-bYTH0cIN94YYWyB-0" />
@@ -300,7 +300,7 @@
         <mxCell id="KarF-bYTH0cIN94YYWyB-3" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="KarF-bYTH0cIN94YYWyB-2">
           <mxGeometry x="20" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KarF-bYTH0cIN94YYWyB-4" value="Caso de Uso: Usuário (RU*)" style="swimlane;" vertex="1" parent="KarF-bYTH0cIN94YYWyB-2">
+        <mxCell id="KarF-bYTH0cIN94YYWyB-4" value="Caso de Uso: Cadastro de Pessoa [Usuário (RU*)]" style="swimlane;" vertex="1" parent="KarF-bYTH0cIN94YYWyB-2">
           <mxGeometry x="70" y="30" width="570" height="440" as="geometry" />
         </mxCell>
         <mxCell id="KarF-bYTH0cIN94YYWyB-5" value="Cadastra Categoria de Pessoa" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="KarF-bYTH0cIN94YYWyB-4">
