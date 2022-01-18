@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T15:21:56.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1IxX5HJ2JG78RHvERbEw" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-18T00:02:29.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="bAehLDqCrQuiAXlvleL6" version="16.2.7" type="github" pages="5">
   <diagram id="LlKktqIb9uknwn_X3MoD" name="Cad-Pessoa(Admin)">
-    <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oY9YBYQD92hxkGcXl7jA-1" value="Módulo de Informações Cadastrais" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="150" y="80" width="650" height="480" as="geometry" />
+          <mxGeometry x="100" y="40" width="650" height="480" as="geometry" />
         </mxCell>
         <mxCell id="oY9YBYQD92hxkGcXl7jA-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="oY9YBYQD92hxkGcXl7jA-1">
           <mxGeometry x="20" y="240" width="30" height="60" as="geometry" />
@@ -160,18 +160,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0PBLPBcWrFO7Ismnn3im-1" value="* CRUD: Create, Read, Update, Delete" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="630" height="30" as="geometry" />
+          <mxGeometry x="110" y="520" width="630" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Cad-Pessoa(Operator)" id="T_cnKersPYIX8bRWeLpB">
-    <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fDNJ7AyMIo0dSmSkeILJ-0" />
         <mxCell id="fDNJ7AyMIo0dSmSkeILJ-1" parent="fDNJ7AyMIo0dSmSkeILJ-0" />
         <mxCell id="C0qJVE6773nrGns2ulc4-0" value="Módulo de Informações Cadastrais" style="swimlane;" vertex="1" parent="fDNJ7AyMIo0dSmSkeILJ-1">
-          <mxGeometry x="150" y="80" width="650" height="480" as="geometry" />
+          <mxGeometry x="100" y="40" width="650" height="480" as="geometry" />
         </mxCell>
         <mxCell id="C0qJVE6773nrGns2ulc4-1" value="Operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="C0qJVE6773nrGns2ulc4-0">
           <mxGeometry x="20" y="240" width="30" height="60" as="geometry" />
@@ -284,18 +284,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gk4BFaONYq_99QW46tr5-0" value="* CRU: Create, Read, Update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fDNJ7AyMIo0dSmSkeILJ-1">
-          <mxGeometry x="160" y="560" width="630" height="30" as="geometry" />
+          <mxGeometry x="110" y="520" width="630" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Cad-Pessoa(User)" id="q8UgcgfujM2APmbz-Ftf">
-    <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="KarF-bYTH0cIN94YYWyB-0" />
         <mxCell id="KarF-bYTH0cIN94YYWyB-1" parent="KarF-bYTH0cIN94YYWyB-0" />
         <mxCell id="KarF-bYTH0cIN94YYWyB-2" value="Módulo de Informações Cadastrais" style="swimlane;" vertex="1" parent="KarF-bYTH0cIN94YYWyB-1">
-          <mxGeometry x="150" y="80" width="650" height="480" as="geometry" />
+          <mxGeometry x="100" y="40" width="650" height="480" as="geometry" />
         </mxCell>
         <mxCell id="KarF-bYTH0cIN94YYWyB-3" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="KarF-bYTH0cIN94YYWyB-2">
           <mxGeometry x="20" y="240" width="30" height="60" as="geometry" />
@@ -408,18 +408,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0DG4J0mkfdWLvSE0BFgy-0" value="* RU: Read, Update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KarF-bYTH0cIN94YYWyB-1">
-          <mxGeometry x="160" y="560" width="630" height="30" as="geometry" />
+          <mxGeometry x="110" y="520" width="630" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Reg-Consulta" id="Pf3b2LGwLlfQ0EyCs6Lq">
-    <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yy801ZG-W4wEnnO-UrQJ-0" />
         <mxCell id="yy801ZG-W4wEnnO-UrQJ-1" parent="yy801ZG-W4wEnnO-UrQJ-0" />
         <mxCell id="yy801ZG-W4wEnnO-UrQJ-2" value="Módulo de Informações Cadastrais" style="swimlane;" vertex="1" parent="yy801ZG-W4wEnnO-UrQJ-1">
-          <mxGeometry x="150" y="80" width="650" height="480" as="geometry" />
+          <mxGeometry x="100" y="40" width="650" height="480" as="geometry" />
         </mxCell>
         <mxCell id="yy801ZG-W4wEnnO-UrQJ-3" value="Prestador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="yy801ZG-W4wEnnO-UrQJ-2">
           <mxGeometry x="20" y="90" width="30" height="60" as="geometry" />
@@ -535,12 +535,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Reg-Exame" id="c-ZaTwecyUsftbqLhWsM">
-    <mxGraphModel dx="872" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="wmzp5VFphxODaSWuRaPw-0" />
         <mxCell id="wmzp5VFphxODaSWuRaPw-1" parent="wmzp5VFphxODaSWuRaPw-0" />
         <mxCell id="nKhwnuqUjO9bPAckVvUW-0" value="Módulo de Informações Cadastrais" style="swimlane;" vertex="1" parent="wmzp5VFphxODaSWuRaPw-1">
-          <mxGeometry x="150" y="80" width="650" height="480" as="geometry" />
+          <mxGeometry x="100" y="40" width="650" height="480" as="geometry" />
         </mxCell>
         <mxCell id="nKhwnuqUjO9bPAckVvUW-1" value="Prestador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="nKhwnuqUjO9bPAckVvUW-0">
           <mxGeometry x="20" y="90" width="30" height="60" as="geometry" />
