@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T00:00:11.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="IwlWyUo_S8SaipGHlanC" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T00:03:36.040Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="y1ggh4cgf6SC_Cc3JbCk" version="16.2.7" type="github">
   <diagram id="2DpKcrszy_h0_hMXwlpR" name="MCD-Data-Lake">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o-3ELtx8tMzShu5-paNh-1" value="Módulo de Ciência de Dados" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="150" y="80" width="670" height="480" as="geometry" />
+          <mxGeometry x="90" y="40" width="670" height="480" as="geometry" />
         </mxCell>
         <mxCell id="o-3ELtx8tMzShu5-paNh-3" value="Caso de Uso: Data Lake para DW e BI (AWS)" style="swimlane;" vertex="1" parent="o-3ELtx8tMzShu5-paNh-1">
           <mxGeometry x="70" y="30" width="600" height="440" as="geometry" />
