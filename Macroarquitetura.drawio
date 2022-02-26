@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T15:01:32.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="MGbecfD9--mHRXGKxQRD" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T19:51:26.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="yhfC_JKjcJxFdcRuO9mt" version="16.6.4" type="github">
   <diagram id="HIcnpmZ-lDFooEijz_Dc" name="Page-1">
-    <mxGraphModel dx="395" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="jCCKsCVmreZrp9B1v_lG-12" value="REST API" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;" parent="jCCKsCVmreZrp9B1v_lG-9" vertex="1">
           <mxGeometry x="20" y="40" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-15" value="&lt;font color=&quot;#4277bb&quot;&gt;Database&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-9" vertex="1">
+        <mxCell id="jCCKsCVmreZrp9B1v_lG-15" value="&lt;font color=&quot;#4277bb&quot;&gt;DB SQL&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-9" vertex="1">
           <mxGeometry x="100" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" parent="jCCKsCVmreZrp9B1v_lG-9" vertex="1">
@@ -53,7 +53,7 @@
               <mxPoint x="125" y="710" />
               <mxPoint x="560" y="710" />
               <mxPoint x="560" y="14" />
-              <mxPoint x="125" y="14" />
+              <mxPoint x="120" y="14" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -61,7 +61,7 @@
         <mxCell id="jCCKsCVmreZrp9B1v_lG-33" value="BPM KIE Server" style="swimlane;" parent="jCCKsCVmreZrp9B1v_lG-8" vertex="1">
           <mxGeometry x="40" y="460" width="170" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-34" value="&lt;font color=&quot;#4277bb&quot;&gt;Database&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-33" vertex="1">
+        <mxCell id="jCCKsCVmreZrp9B1v_lG-34" value="&lt;font color=&quot;#4277bb&quot;&gt;DB SQL&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-33" vertex="1">
           <mxGeometry x="100" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" parent="jCCKsCVmreZrp9B1v_lG-33" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="jCCKsCVmreZrp9B1v_lG-43" value="REST API" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;" parent="jCCKsCVmreZrp9B1v_lG-42" vertex="1">
           <mxGeometry x="20" y="40" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-44" value="&lt;font color=&quot;#4277bb&quot;&gt;Database&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-42" vertex="1">
+        <mxCell id="jCCKsCVmreZrp9B1v_lG-44" value="&lt;font color=&quot;#4277bb&quot;&gt;DB SQL&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-42" vertex="1">
           <mxGeometry x="100" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" parent="jCCKsCVmreZrp9B1v_lG-42" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="jCCKsCVmreZrp9B1v_lG-47" value="REST API" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;" parent="jCCKsCVmreZrp9B1v_lG-46" vertex="1">
           <mxGeometry x="20" y="40" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-48" value="&lt;font color=&quot;#4277bb&quot;&gt;Database&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-46" vertex="1">
+        <mxCell id="jCCKsCVmreZrp9B1v_lG-48" value="&lt;font color=&quot;#4277bb&quot;&gt;DB NoSQL&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-46" vertex="1">
           <mxGeometry x="100" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" parent="jCCKsCVmreZrp9B1v_lG-46" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="jCCKsCVmreZrp9B1v_lG-52" value="REST API" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;" parent="jCCKsCVmreZrp9B1v_lG-51" vertex="1">
           <mxGeometry x="20" y="40" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-53" value="&lt;font color=&quot;#4277bb&quot;&gt;Database&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-51" vertex="1">
+        <mxCell id="jCCKsCVmreZrp9B1v_lG-53" value="&lt;font color=&quot;#4277bb&quot;&gt;DB NoSQL&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-51" vertex="1">
           <mxGeometry x="100" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" parent="jCCKsCVmreZrp9B1v_lG-51" vertex="1">
@@ -125,16 +125,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-23" value="Service Registry" style="swimlane;" parent="jCCKsCVmreZrp9B1v_lG-8" vertex="1">
-          <mxGeometry x="40" y="34" width="170" height="131" as="geometry" />
+          <mxGeometry x="69.78999999999999" y="34" width="100.00000000000006" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-25" value="&lt;font color=&quot;#4277bb&quot;&gt;Database&lt;/font&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.database;" parent="jCCKsCVmreZrp9B1v_lG-23" vertex="1">
-          <mxGeometry x="100" y="40" width="50" height="50" as="geometry" />
+        <mxCell id="jCCKsCVmreZrp9B1v_lG-21" value="Eureka Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/data/device_registry.svg;" parent="jCCKsCVmreZrp9B1v_lG-23" vertex="1">
+          <mxGeometry x="25" y="40.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" parent="jCCKsCVmreZrp9B1v_lG-23" vertex="1">
-          <mxGeometry x="144" y="111" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-21" value="Registry API" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/data/device_registry.svg;" parent="jCCKsCVmreZrp9B1v_lG-23" vertex="1">
-          <mxGeometry x="20" y="40.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="74.00000000000006" y="116" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KDAO0NJciRt4aHH0Kjw--2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="jCCKsCVmreZrp9B1v_lG-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -195,7 +192,7 @@
             <mxPoint x="659.9999999999998" y="265" as="targetPoint" />
             <Array as="points">
               <mxPoint x="960" y="145" />
-              <mxPoint x="960" y="-5" />
+              <mxPoint x="960" y="-1" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -205,9 +202,8 @@
         <mxCell id="jCCKsCVmreZrp9B1v_lG-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=7;fontColor=#4277BB;endArrow=none;endFill=0;startArrow=none;" parent="1" source="jCCKsCVmreZrp9B1v_lG-39" target="jCCKsCVmreZrp9B1v_lG-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="265" />
-              <mxPoint x="960" y="155" />
-              <mxPoint x="1070" y="155" />
+              <mxPoint x="1000" y="265" />
+              <mxPoint x="1000" y="166" />
             </Array>
           </mxGeometry>
         </mxCell>
