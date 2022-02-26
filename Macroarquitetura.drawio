@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T21:13:00.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Plu_UkmXbnbjsc6LTSnY" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-26T21:13:14.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="NGk8HWJhA317q78LJ-eX" version="16.6.4" type="github" pages="2">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Macroarquitetura">
     <mxGraphModel dx="988" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-KOEicAbmXbd-GZ6eH1_-0" />
         <mxCell id="-KOEicAbmXbd-GZ6eH1_-1" parent="-KOEicAbmXbd-GZ6eH1_-0" />
         <mxCell id="BGMvoTLmsf2Ejd6T7hRA-56" value="" style="group" vertex="1" connectable="0" parent="-KOEicAbmXbd-GZ6eH1_-1">
-          <mxGeometry x="335" y="560" width="280" height="50" as="geometry" />
+          <mxGeometry x="385" y="560" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BGMvoTLmsf2Ejd6T7hRA-29" value="Docker&lt;br&gt;Containers" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;spacingTop=3;fontColor=#4277BB;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-56">
           <mxGeometry x="230" width="50" height="50" as="geometry" />
