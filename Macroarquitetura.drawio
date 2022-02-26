@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T15:00:00.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="B86QApUSXFU6gRoRGbBI" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T15:01:32.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="MGbecfD9--mHRXGKxQRD" version="16.6.4" type="github">
   <diagram id="HIcnpmZ-lDFooEijz_Dc" name="Page-1">
-    <mxGraphModel dx="678" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="395" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-1" value="Client" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.mobile_device_manager;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1101/1*Ww2KniWVKD7Cpc_QhQ75zw.jpeg;" parent="1" vertex="1">
-          <mxGeometry x="100" y="490" width="520" height="393" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=7;fontColor=#4277BB;endArrow=none;endFill=0;" parent="1" source="jCCKsCVmreZrp9B1v_lG-3" target="jCCKsCVmreZrp9B1v_lG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +23,7 @@
           <mxGeometry x="320" y="400" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-8" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="700.21" y="-100" width="579.79" height="820" as="geometry" />
+          <mxGeometry x="700.21" y="-100" width="579.79" height="740" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-9" value="User Microservice" style="swimlane;" parent="jCCKsCVmreZrp9B1v_lG-8" vertex="1">
           <mxGeometry x="369.79" y="34" width="170" height="131" as="geometry" />
@@ -163,11 +160,11 @@
             <mxPoint x="559.79" y="605.2100000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-20" value="&lt;font color=&quot;#4277bb&quot;&gt;System Health&lt;br&gt;Monitoring&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;fontColor=#6666FF;" parent="1" vertex="1">
-          <mxGeometry x="270" y="40" width="50" height="31" as="geometry" />
+        <mxCell id="jCCKsCVmreZrp9B1v_lG-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="jCCKsCVmreZrp9B1v_lG-8" vertex="1">
+          <mxGeometry x="564.5799999999999" y="722" width="30.21" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="jCCKsCVmreZrp9B1v_lG-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="750" width="30.21" height="29" as="geometry" />
+        <mxCell id="jCCKsCVmreZrp9B1v_lG-20" value="&lt;font color=&quot;#4277bb&quot;&gt;System Health&lt;br&gt;Monitoring&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;fontColor=#6666FF;" parent="1" vertex="1">
+          <mxGeometry x="540" width="50" height="31" as="geometry" />
         </mxCell>
         <mxCell id="jCCKsCVmreZrp9B1v_lG-66" value="Circuit Breaker" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.circuit_breaker;fontSize=7;fontColor=#4277BB;" parent="1" vertex="1">
           <mxGeometry x="620" y="529" width="75" height="20" as="geometry" />
