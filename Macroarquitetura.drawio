@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T20:37:01.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="jyCpG2YgfQQr7eOoFjnE" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-26T20:37:46.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="ekjOEVu-KwRqW8Lgfv72" version="16.6.4" type="github" pages="2">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Macroarquitetura">
-    <mxGraphModel dx="395" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-KOEicAbmXbd-GZ6eH1_-0" />
         <mxCell id="-KOEicAbmXbd-GZ6eH1_-1" parent="-KOEicAbmXbd-GZ6eH1_-0" />
@@ -10,29 +10,35 @@
         <mxCell id="BGMvoTLmsf2Ejd6T7hRA-1" value="Client" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.mobile_device_manager;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
           <mxGeometry x="40" y="240" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-4" value="Gateway" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
-          <mxGeometry x="200" y="240" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-5" value="Identity Access&lt;br&gt;Management" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/identity_access_management.svg;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
-          <mxGeometry x="200" y="340" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-42" value="&lt;font color=&quot;#4277bb&quot;&gt;System Health&lt;br&gt;Monitoring&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;fontColor=#6666FF;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
-          <mxGeometry x="200" y="135.5" width="50" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-29" value="Docker&lt;br&gt;Containers" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;spacingTop=3;fontColor=#4277BB;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
-          <mxGeometry x="740" y="520" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-41" value="Kubernetes&lt;br&gt;Orchestrator" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;spacingTop=3;fontColor=#4277BB;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
-          <mxGeometry x="660" y="520" width="52.09" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-52" value="&lt;font color=&quot;#4277bb&quot;&gt;Centralized&lt;br&gt;Logs&lt;/font&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/LogDiagnostics.svg;spacingTop=3;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
-          <mxGeometry x="585" y="520" width="45" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="BGMvoTLmsf2Ejd6T7hRA-19" value="REST API" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
           <mxGeometry x="580" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-54" value="Registry&lt;br&gt;Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/device_registry.svg;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
-          <mxGeometry x="510" y="520" width="50" height="50" as="geometry" />
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-56" value="" style="group" vertex="1" connectable="0" parent="-KOEicAbmXbd-GZ6eH1_-1">
+          <mxGeometry x="510" y="520" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-29" value="Docker&lt;br&gt;Containers" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;spacingTop=3;fontColor=#4277BB;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-56">
+          <mxGeometry x="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-41" value="Kubernetes&lt;br&gt;Orchestrator" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;spacingTop=3;fontColor=#4277BB;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-56">
+          <mxGeometry x="150" width="52.09" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-52" value="&lt;font color=&quot;#4277bb&quot;&gt;Centralized&lt;br&gt;Logs&lt;/font&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/LogDiagnostics.svg;spacingTop=3;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-56">
+          <mxGeometry x="75" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-54" value="Registry&lt;br&gt;Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/device_registry.svg;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-56">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-57" value="" style="group" vertex="1" connectable="0" parent="-KOEicAbmXbd-GZ6eH1_-1">
+          <mxGeometry x="200" y="135.5" width="50" height="254.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-4" value="Gateway" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-57">
+          <mxGeometry y="104.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-5" value="Identity Access&lt;br&gt;Management" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/identity_access_management.svg;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-57">
+          <mxGeometry y="204.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-42" value="&lt;font color=&quot;#4277bb&quot;&gt;System Health&lt;br&gt;Monitoring&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;fontColor=#6666FF;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-57">
+          <mxGeometry width="50" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
