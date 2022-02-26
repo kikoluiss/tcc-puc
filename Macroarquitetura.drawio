@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T20:37:46.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="ekjOEVu-KwRqW8Lgfv72" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-26T20:44:56.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="90EQUmxl_mmsQ2_IdfmZ" version="16.6.4" type="github" pages="2">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Macroarquitetura">
-    <mxGraphModel dx="818" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-KOEicAbmXbd-GZ6eH1_-0" />
         <mxCell id="-KOEicAbmXbd-GZ6eH1_-1" parent="-KOEicAbmXbd-GZ6eH1_-0" />
@@ -39,6 +39,21 @@
         </mxCell>
         <mxCell id="BGMvoTLmsf2Ejd6T7hRA-42" value="&lt;font color=&quot;#4277bb&quot;&gt;System Health&lt;br&gt;Monitoring&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;fontColor=#6666FF;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-57">
           <mxGeometry width="50" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-62" value="Boa Saúde - Modules" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;fontColor=#4277BB;" vertex="1" parent="-KOEicAbmXbd-GZ6eH1_-1">
+          <mxGeometry x="320" y="30" width="440" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-63" value="Registration&#xa;Information" style="swimlane;startSize=40;horizontal=0;fontColor=#4277BB;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-62">
+          <mxGeometry y="20" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-64" value="Services to&#xa;Members" style="swimlane;startSize=40;horizontal=0;fontColor=#4277BB;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-62">
+          <mxGeometry y="140" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-66" value="Management and&#xa;Strategy" style="swimlane;startSize=40;horizontal=0;fontColor=#4277BB;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-62">
+          <mxGeometry y="260" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BGMvoTLmsf2Ejd6T7hRA-67" value="Data&#xa;Science" style="swimlane;startSize=40;horizontal=0;fontColor=#4277BB;" vertex="1" parent="BGMvoTLmsf2Ejd6T7hRA-62">
+          <mxGeometry y="380" width="440" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
