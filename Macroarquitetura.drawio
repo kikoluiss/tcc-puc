@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T21:08:31.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="sWqzq-2w8IiTyatGbp3-" version="16.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-27T21:08:51.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Y6pu7Em0wGZFWwXpqanH" version="16.6.4" type="github" pages="6">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Architecture">
     <mxGraphModel dx="988" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="r9ZrSJ4VWCq3yXywwIYW-1" parent="r9ZrSJ4VWCq3yXywwIYW-0" />
         <object label="Registration Information [ Module ]" Model="Disease" id="NFE5jcaqBEwZ20pzX-tq-0">
           <mxCell style="swimlane;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="r9ZrSJ4VWCq3yXywwIYW-1">
-            <mxGeometry x="20" y="690" width="810" height="1680" as="geometry" />
+            <mxGeometry x="20" y="690" width="810" height="1470" as="geometry" />
           </mxCell>
         </object>
         <object label="PreexistingDiseases" id="NFE5jcaqBEwZ20pzX-tq-1">
