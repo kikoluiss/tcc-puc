@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T21:49:40.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Hy2TpDttM6Pjhfu90O5N" version="16.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-27T21:52:26.237Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="k_SFiMH1xcLxj9KsePvk" version="16.6.4" type="github" pages="6">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Architecture">
     <mxGraphModel dx="1186" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -827,7 +827,7 @@
         <mxCell id="wS6DsiPgcqZ_qCfvMvsq-10" value="Application Layer" style="swimlane;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" parent="wS6DsiPgcqZ_qCfvMvsq-8" vertex="1">
           <mxGeometry x="20" y="200" width="770" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="wS6DsiPgcqZ_qCfvMvsq-17" value="«microservice»&lt;br&gt;&lt;b&gt;People&lt;/b&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" parent="wS6DsiPgcqZ_qCfvMvsq-10" vertex="1">
+        <mxCell id="wS6DsiPgcqZ_qCfvMvsq-17" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;PreexistingDiseases&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" parent="wS6DsiPgcqZ_qCfvMvsq-10" vertex="1">
           <mxGeometry x="25" y="40" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wS6DsiPgcqZ_qCfvMvsq-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" parent="wS6DsiPgcqZ_qCfvMvsq-17" vertex="1">
@@ -835,10 +835,66 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS6DsiPgcqZ_qCfvMvsq-19" value="«api»&lt;br&gt;&lt;b&gt;Web&lt;/b&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" parent="wS6DsiPgcqZ_qCfvMvsq-10" vertex="1">
-          <mxGeometry x="25" y="150" width="180" height="50" as="geometry" />
+        <mxCell id="zA5Fd3a07V4TufqjMt0U-1" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;Shortages&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="wS6DsiPgcqZ_qCfvMvsq-10">
+          <mxGeometry x="220" y="40" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wS6DsiPgcqZ_qCfvMvsq-20" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" parent="wS6DsiPgcqZ_qCfvMvsq-19" vertex="1">
+        <mxCell id="zA5Fd3a07V4TufqjMt0U-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="zA5Fd3a07V4TufqjMt0U-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD-PuTqHqA-HWhWciFmf-1" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;ServicesCoverages&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="wS6DsiPgcqZ_qCfvMvsq-10">
+          <mxGeometry x="420" y="40" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eD-PuTqHqA-HWhWciFmf-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="eD-PuTqHqA-HWhWciFmf-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pben5a0e3PFMjHbWHKec-1" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;HealthInsurances&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="wS6DsiPgcqZ_qCfvMvsq-10">
+          <mxGeometry x="25" y="120" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pben5a0e3PFMjHbWHKec-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="pben5a0e3PFMjHbWHKec-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2xOiYtNnoyDwB2i5Mjn-1" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;People&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="wS6DsiPgcqZ_qCfvMvsq-10">
+          <mxGeometry x="220" y="115" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w2xOiYtNnoyDwB2i5Mjn-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="w2xOiYtNnoyDwB2i5Mjn-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6s_eF9BZpqwzeVIdRA6w-1" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;MedicalSpecialties&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="wS6DsiPgcqZ_qCfvMvsq-10">
+          <mxGeometry x="420" y="115" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6s_eF9BZpqwzeVIdRA6w-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="6s_eF9BZpqwzeVIdRA6w-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQgNOvAwp8El5XNxdXVC-1" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;PeopleProfiles&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="wS6DsiPgcqZ_qCfvMvsq-10">
+          <mxGeometry x="25" y="200" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bQgNOvAwp8El5XNxdXVC-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="bQgNOvAwp8El5XNxdXVC-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ciW2fLgwkx50LnAXR3gx-1" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;PeopleCategories&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="wS6DsiPgcqZ_qCfvMvsq-10">
+          <mxGeometry x="220" y="200" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ciW2fLgwkx50LnAXR3gx-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="ciW2fLgwkx50LnAXR3gx-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47bnNQJKM1ESxpdhYp3s-1" value="«microservice»&lt;br&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;Locales&lt;/span&gt;" style="html=1;dropTarget=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="wS6DsiPgcqZ_qCfvMvsq-10">
+          <mxGeometry x="430" y="200" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="47bnNQJKM1ESxpdhYp3s-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="47bnNQJKM1ESxpdhYp3s-1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
