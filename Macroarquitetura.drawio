@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T13:33:10.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="S7pSE9lc_3b60fYLEQo4" version="16.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-27T13:33:35.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="6dai66_C8KLslg_KQVq9" version="16.6.4" type="github" pages="5">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Architecture">
     <mxGraphModel dx="988" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-59" value="+ create(Category): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-56">
           <mxGeometry y="60" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-60" value="+ readList(List&lt;Filter): List&lt; Category &gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-56">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-60" value="+ readList(List&lt;Filter): List&lt;Category&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-56">
           <mxGeometry y="86" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-61" value="+ read(Integer): Category" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-56">
@@ -318,7 +318,7 @@
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-70" value="+ create(Locale): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-67">
           <mxGeometry y="60" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-71" value="+ readList(List&lt;Filter): List&lt; Locale &gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-67">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-71" value="+ readList(List&lt;Filter): List&lt;Locale&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-67">
           <mxGeometry y="86" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-72" value="+ read(Integer): Locale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-67">
@@ -342,7 +342,7 @@
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-78" value="+ create(Specialty): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-75">
           <mxGeometry y="60" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-79" value="+ readList(List&lt;Filter): List&lt; Specialty &gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-75">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-79" value="+ readList(List&lt;Filter): List&lt;Specialty&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-75">
           <mxGeometry y="86" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-80" value="+ read(Specialty): Locale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-75">
