@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T12:08:27.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="BnTmYO99mWObY9AJlovL" version="16.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-27T13:09:01.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="UXUoHRSNVRy9rqQ108FU" version="16.6.4" type="github" pages="5">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Architecture">
     <mxGraphModel dx="988" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -143,44 +143,47 @@
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
           <mxGeometry y="52" width="240" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-5" value="+ getList(List&lt;Filter): List&lt;Disease&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-4" value="+ create(Disease): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
           <mxGeometry y="60" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-8" value="+ get(Integer): Disease" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-5" value="+ readList(List&lt;Filter): List&lt;Disease&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
           <mxGeometry y="86" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-4" value="+ insert(Disease): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-8" value="+ read(Integer): Disease" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
           <mxGeometry y="112" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-6" value="+ patch(Disease): Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-6" value="+ update(Disease): Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
           <mxGeometry y="138" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-7" value="+ delete(Integer): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-1">
           <mxGeometry y="164" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-11" value="Shortages" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-0">
-          <mxGeometry x="350" y="40" width="240" height="190" as="geometry" />
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-19" value="Shortages" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-0">
+          <mxGeometry x="360" y="40" width="240" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-12" value="- diseaseModel: Disease" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-11">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-27" value="- shortage: Shortage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-19">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-11">
-          <mxGeometry y="52" width="240" height="8" as="geometry" />
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-20" value="- diseaseModel: Disease" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-19">
+          <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-14" value="+ getList(List&lt;Filter): List&lt;Disease&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-11">
-          <mxGeometry y="60" width="240" height="26" as="geometry" />
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-19">
+          <mxGeometry y="78" width="240" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-15" value="+ get(Integer): Disease" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-11">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-22" value="+ create(Shortage): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-19">
           <mxGeometry y="86" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-16" value="+ insert(Disease): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-11">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-23" value="+ readList(List&lt;Filter): List&lt;Shortage&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-19">
           <mxGeometry y="112" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-17" value="+ patch(Disease): Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-11">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-24" value="+ read(Integer): Shortage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-19">
           <mxGeometry y="138" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-18" value="+ delete(Integer): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-11">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-25" value="+ update(Disease): Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-19">
           <mxGeometry y="164" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-26" value="+ delete(Integer): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" vertex="1" parent="NFE5jcaqBEwZ20pzX-tq-19">
+          <mxGeometry y="190" width="240" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
