@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T22:29:47.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="DxiPHyb2OOEQ-rkEAJzJ" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-27T22:30:08.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="MmwDFQSh6tQ4g8KJAJC0" version="16.6.4" type="github" pages="4">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Architecture">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
       <root>
         <mxCell id="r9ZrSJ4VWCq3yXywwIYW-0" />
         <mxCell id="r9ZrSJ4VWCq3yXywwIYW-1" parent="r9ZrSJ4VWCq3yXywwIYW-0" />
-        <object label="Registration Information [ Module ]" Model="Disease" id="NFE5jcaqBEwZ20pzX-tq-0">
+        <object label="Registration Information [ RI Module ]" Model="Disease" id="NFE5jcaqBEwZ20pzX-tq-0">
           <mxCell style="swimlane;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" parent="r9ZrSJ4VWCq3yXywwIYW-1" vertex="1">
             <mxGeometry x="20" y="20" width="810" height="1470" as="geometry" />
           </mxCell>
@@ -505,7 +505,7 @@
       <root>
         <mxCell id="-BTeV3ZwkMOu7mJuRxkI-0" />
         <mxCell id="-BTeV3ZwkMOu7mJuRxkI-1" parent="-BTeV3ZwkMOu7mJuRxkI-0" />
-        <object label="Services to Members [ Module ]" Model="Disease" id="-BTeV3ZwkMOu7mJuRxkI-2">
+        <object label="Services to Members [ SM Module ]" Model="Disease" id="-BTeV3ZwkMOu7mJuRxkI-2">
           <mxCell style="swimlane;fontColor=#4277BB;strokeWidth=1;gradientColor=none;" parent="-BTeV3ZwkMOu7mJuRxkI-1" vertex="1">
             <mxGeometry x="50" y="20" width="750" height="650" as="geometry" />
           </mxCell>
