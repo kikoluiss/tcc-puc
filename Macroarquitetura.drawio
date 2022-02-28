@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T22:30:08.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="MmwDFQSh6tQ4g8KJAJC0" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-28T21:31:17.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="tOHbQHuVejKc2gp_mOop" version="16.6.4" type="github" pages="4">
   <diagram id="NTXuN-DpAhFUwy5XXqnT" name="Architecture">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-27" value="- shortageModel: Shortage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" parent="NFE5jcaqBEwZ20pzX-tq-19" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFE5jcaqBEwZ20pzX-tq-20" value="- diseaseModel: Disease" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" parent="NFE5jcaqBEwZ20pzX-tq-19" vertex="1">
+        <mxCell id="NFE5jcaqBEwZ20pzX-tq-20" value="- diseaseListModel: List&lt;Disease&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#4277BB;" parent="NFE5jcaqBEwZ20pzX-tq-19" vertex="1">
           <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NFE5jcaqBEwZ20pzX-tq-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontColor=#4277BB;" parent="NFE5jcaqBEwZ20pzX-tq-19" vertex="1">
