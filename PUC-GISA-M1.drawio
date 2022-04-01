@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T23:04:03.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="C3hf8imEc2h9gF1knVEh" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T23:04:38.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="dnQwxVr3FdUHmNLe5Mk8" version="17.2.4" type="github" pages="3">
   <diagram id="LlKktqIb9uknwn_X3MoD" name="Cad-Pessoa">
     <mxGraphModel dx="1426" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="400" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="60" y="30" />
-              <mxPoint x="480" y="30" />
+              <mxPoint x="470" y="30" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
             <mxPoint x="390" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="70" />
-              <mxPoint x="460" y="70" />
+              <mxPoint x="470" y="70" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
