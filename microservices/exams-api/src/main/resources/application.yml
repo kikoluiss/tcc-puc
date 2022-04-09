@@ -1,0 +1,28 @@
+server:
+  port: 8104
+spring:
+  application:
+    name: boa-saude-exams-api
+  datasource:
+    hikari:
+      connectionTimeout: 20000
+      maximumPoolSize: 5
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/boa_saude
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 20000
+        readTimeout: 20000
+        loggerLevel: basic
+    implementations:
+      coverages: boa-saude-coverages-api
+      specialties: boa-saude-specialties-api
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+  instance:
+    preferIpAddress: true
